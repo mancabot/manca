@@ -16,12 +16,12 @@
   "author": "mancabot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/cansbot.git"
+    "url": "git+https://github.com/mancabot/manca.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/cansbot/issues"
+    "url": "https://github.com/mancabot/manca/issues"
   },
-"homepage": "https://github.com/mancabot/cansbot/readme",
+"homepage": "https://github.com/mancabot/manca/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
