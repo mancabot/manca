@@ -1,5 +1,5 @@
 
-## MANCABOT
+## MANCA
 
 ```bash
 > git clone https://github.com/mancabot/manca
