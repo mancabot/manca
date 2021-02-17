@@ -2,7 +2,7 @@
 ## MANCABOT
 
 ```bash
-> git clone https://github.com/mancabot/cansbot
+> git clone https://github.com/mancabot/manca
 ```
 
 ## Install the dependencies:
@@ -10,7 +10,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv4
+> cd manca
 > bash install.sh
 ```
 
@@ -32,8 +32,8 @@ you've just cloned!!
 > $ apt-get install wget
 > $ apt-get install tesseract
 > $ pkg install bash
-> $ git clone https://github.com/mancabot/cansbot
-> $ cd cansbot
+> $ git clone https://github.com/mancabot/manca
+> $ cd manca
 > $ bash install.sh
 > $ node index.js
 ```
@@ -45,7 +45,7 @@ ctrl + c
 
 ##CARA ON IN BOT
 ```bash
-> $ cd cansbot
+> $ cd manca
 > $ bash install.sh
 > $ node index.js
 
@@ -156,8 +156,8 @@ ctrl + c
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/6283815956151)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Saweria`](https://saweria.co/mancabot)
+* [`Dana : +6283815956151`]
+* [`Pulsa : +6283815956151`]
